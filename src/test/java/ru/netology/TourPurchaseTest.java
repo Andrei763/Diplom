@@ -1,17 +1,15 @@
 package ru.netology;
 import com.codeborne.selenide.logevents.SelenideLogger;
 import io.qameta.allure.selenide.AllureSelenide;
-import lombok.SneakyThrows;
+
 import org.junit.jupiter.api.*;
 import ru.netology.page.PurchasePage;
 
-import java.util.concurrent.TimeUnit;
+
 
 import static com.codeborne.selenide.Selenide.*;
-import static org.junit.jupiter.api.Assertions.assertEquals;
 import static ru.netology.data.DataGenerator.*;
 import static ru.netology.data.DataHelper.*;
-import static ru.netology.data.DataHelper.getPaymentInfo;
 
 public class TourPurchaseTest {
 
