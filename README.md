@@ -9,7 +9,7 @@
 
 ## Тестовая документация
 1. [План автоматизации тестирования](https://github.com/Andrei763/Diplom/blob/main/documents/Plan.md) 
-2.
+2. [Отчет о проведенном тестировании](https://github.com/Andrei763/Diplom/blob/main/documents/Report.md)
 3.
 ### Подготовительный этап
 1. Установить IntelliJ IDEA;
