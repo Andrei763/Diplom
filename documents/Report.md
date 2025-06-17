@@ -17,7 +17,8 @@
 
 
 **Ниже приведен отчет из фреймворка Allure:**
-![Отчет](https://github.com/user-attachments/assets/3083c383-bb69-4478-8833-2c37dd0e8670)
+![Отчет1](https://github.com/user-attachments/assets/0c9add29-4903-4894-9932-4f9c61821b6b)
+
 
 
 
